@@ -24,3 +24,7 @@ links of images used in mini-project
 11. https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F71oq%252Bb0sG-L._SX342_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FTTP226-8-Channel-Capacitive-Sensing-Detector%2Fdp%2FB00KRYWQRY&tbnid=rCQpEdzeL9R3PM&vet=12ahUKEwjX2q_eltLwAhWazXMBHSOYCYoQMygBegUIARDWAQ..i&docid=NZLs_ZDt4hGqkM&w=342&h=342&q=capacitive%20touch%20module&ved=2ahUKEwjX2q_eltLwAhWazXMBHSOYCYoQMygBegUIARDWAQ
 
 12. https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.olelectronics.com%2Fwp-content%2Fuploads%2F2020%2F03%2F16x2_lcd_display.png&imgrefurl=https%3A%2F%2Fwww.olelectronics.com%2Fproduct%2F16x2-yellow-or-green-backlight-alphanumeric-character-lcd-display%2F&tbnid=YoCS_2jgwOJZfM&vet=12ahUKEwiPsJXvltLwAhWazXMBHSOYCYoQMygCegUIARDuAQ..i&docid=NQfy4JFSBT9SiM&w=800&h=800&q=lcd%20module&ved=2ahUKEwiPsJXvltLwAhWazXMBHSOYCYoQMygCegUIARDuAQ
+
+13. https://www.bajajelectronics.com/apple-watch-s6-cel-44-bl-al-nvy-sb-m09a3
+
+14. https://mashable.com/roundup/best-fitness-trackers-smart-watch-heart-rate/  
